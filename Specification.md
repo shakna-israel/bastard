@@ -1,6 +1,6 @@
 # Specification
 
-Herein lies the specification for the language formally known as "Beautifully Absurd Syntax and ARgumentative Dialogue", herein referred to as "BASTARD".
+Herein lies the specification for the language formally known as "Beautifully Absurd SynTax and ARgumentative Dialogue", herein referred to as "BASTARD".
 
 ## Internals
 

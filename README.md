@@ -1,4 +1,4 @@
-# Beautifully Absurd Syntax and ARgumentative Dialogue
+# Beautifully Absurd SynTax and ARgumentative Dialogue
 
 An esoteric language, inspired by Brainfuck and Fortran.
 
