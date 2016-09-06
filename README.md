@@ -103,13 +103,13 @@ T 00
 
 Selects the loop cell and increments it by one.
 ; 00
-A 1
+A 01
 ```
 
 Or without the comments:
 
 ```
-A 72 ! 01 A 99 A 02 ! 01 A 99 A 09 ! 01 A 99 A 09 ! 01 A 99 A 12 ! 01 A 44 ! 01 A 32 ! 01 A 87 ! 01 A 99 A 12 ! 01 A 99 A 15 ! 01 A 99 A 09 ! 01 A 99 A 01 ! 01 A 33 R 01 ! 01 D 13 ? 00 T 00 ; 00 A 1
+A 72 ! 01 A 99 A 02 ! 01 A 99 A 09 ! 01 A 99 A 09 ! 01 A 99 A 12 ! 01 A 44 ! 01 A 32 ! 01 A 87 ! 01 A 99 A 12 ! 01 A 99 A 15 ! 01 A 99 A 09 ! 01 A 99 A 01 ! 01 A 33 R 01 ! 01 D 13 ? 00 T 00 ; 00 A 01
 ```
 
 198 characters for a "Hello, World!" is incredibly verbose, but not as much as some estoric languages.
